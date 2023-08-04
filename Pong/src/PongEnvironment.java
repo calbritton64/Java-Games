@@ -96,7 +96,7 @@ public class PongEnvironment
 		left.draw(g);
 		right.draw(g);
 
-		g.drawString("Score: "+ leftScore, 25, 12);
-		g.drawString("Score: "+ rightScore, WIDTH-125, 12);
+		g.drawString("Callie's Score: "+ leftScore, 25, 12);
+		g.drawString("Callie's Score: "+ rightScore, WIDTH-125, 12);
 	}
 }
